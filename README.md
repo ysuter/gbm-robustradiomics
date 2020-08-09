@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 This repository contains the code and further information for the paper 
 ## Radiomics for glioblastoma survival analysis in pre-operative MRI: exploring feature robustness, class boundaries, and machine learning techniques
 > Suter, Y., Knecht, U., Alão, M. *et al.* Radiomics for glioblastoma survival analysis in pre-operative MRI: exploring feature robustness,  class boundaries, and machine learning techniques. *Cancer Imaging* **20,** 55 (2020). https://doi.org/10.1186/s40644-020-00329-8
@@ -53,3 +54,8 @@ We provide two CSV files in the robustness data folder:
 
 Please let us know through opening an issue in this repository if you miss some information or code.
 
+=======
+This repository will contain the code used for the paper 
+# Radiomics for glioblastoma survival analysis in pre-operative MRI: exploring feature robustness, class boundaries, and machine learning techniques
+by Suter et al., Cancer Imaging, 2020
+>>>>>>> d76be543470d69190fad3e49a5c0cf8ab8250f3d
